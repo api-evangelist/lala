@@ -50,7 +50,7 @@ tags:
 - Artificial Intelligence
 - Video
 - Content Generation
-- Social-Media
+- Social Media
 - Transcription
 - Online Learning
 tags_raw:
@@ -63,6 +63,7 @@ tags_raw:
 - Social Media
 - Transcription
 - Online Learning
+- Social-Media
 apis: []
 maintainers:
 - FN: Kin Lane
@@ -75,7 +76,7 @@ common:
 - type: Pricing
   url: https://meetlala.io/#pricing
 - type: SignUp
-  url: https://app.meetlala.io/login?utm_landing=navbar_signup
+  url: https://app.meetlala.io/login
 - type: Login
   url: https://app.meetlala.io/login
 - type: Support
