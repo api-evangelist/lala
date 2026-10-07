@@ -1,0 +1,49 @@
+# Pricing transcribed from the provider's own page — see provenance. Numbers are quoted, not derived.
+generated: '2026-10-07'
+method: searched
+source: https://meetlala.io/#pricing
+sources:
+- https://meetlala.io/#pricing
+provenance:
+  tool: all/0-working/economics/harvest_pricing.py
+  run: 20261007T104522
+  grounding: every price_text was found verbatim in the fetched page text
+audience: business-product
+pricing_basis: tiered-subscription
+delivery:
+  delivery: managed
+  method: page
+  read: '2026-10-07'
+  managed_tier: Pro
+published: true
+note: Landing page with three subscription tiers for an AI content generation platform for educators;
+  no API pricing mentioned.
+plan_count: 3
+currency: USD
+plans:
+- name: Free
+  price_text: $0 / month
+  price: 0
+  currency: USD
+  period: month
+  included_quota: 30 minutes of Video Uploads, 90 minutes Lala Videocall, 4 Video Call Participants, Up
+    to 5 Reels after each class
+- name: Pro
+  price_text: $30 / month
+  price: 30
+  currency: USD
+  period: month
+  included_quota: 300 minutes of Video Uploads, Unlimited Lala Videocall, 50 Video Call Participants,
+    Up to 15 Reels after each class, Personal contact of CEO
+- name: Enterprise
+  price_text: $200 / month
+  price: 200
+  currency: USD
+  period: month
+  included_quota: 1800 minutes of Video Uploads, Unlimited Lala Videocall, 200 Video Call Participants,
+    Up to 30 Reels after each class, Personal contact of CEO
+rate_limit_statements:
+- Up to 200 participants.
+- 4 Video Call Participants
+- 50 Video Call Participants
+- 200 Video Call Participants
